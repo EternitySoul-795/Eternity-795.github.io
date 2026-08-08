@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   description:
     "Building immersive digital experiences & AI-powered products. Full stack developer, UI/UX designer, and creative technologist.",
   metadataBase: new URL("http://localhost:3000"),
+  icons: {
+    icon: "/ES_logo.png",
+    shortcut: "/ES_logo.png",
+    apple: "/ES_logo.png",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
