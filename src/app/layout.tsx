@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "EternitySoul - @KD",
   description:
     "Building immersive digital experiences & AI-powered products. Full stack developer, UI/UX designer, and creative technologist.",
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://eternitysoul.me"),
   icons: {
     icon: "/ES_logo.png",
     shortcut: "/ES_logo.png",
