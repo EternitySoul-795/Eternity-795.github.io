@@ -9,7 +9,7 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Khileshwar Dewangan — Creative Developer & Designer",
+  title: "EternitySoul - @KD",
   description:
     "Building immersive digital experiences & AI-powered products. Full stack developer, UI/UX designer, and creative technologist.",
   metadataBase: new URL("http://localhost:3000"),
